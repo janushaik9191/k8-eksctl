@@ -8,4 +8,4 @@ metadata:
 managedNodeGroups:
   - name: expense
     instanceType: m5.large
-    desiredCapacity: 03
+    desiredCapacity: 01
