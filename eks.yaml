@@ -9,4 +9,3 @@ managedNodeGroups:
   - name: expense
     instanceType: t3.micro
     desiredCapacity: 03
-    
